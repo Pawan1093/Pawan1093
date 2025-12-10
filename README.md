@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pawan 👋  
+AI & Data Science student (Mumbai University, ’27) | Cyber Security specialization  
 
-<!--
-**Pawan1093/Pawan1093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- Passionate about Machine Learning, Web Development & Data Engineering  
+- Learning advanced Pandas, SQL, and backend development  
+- Exploring cybersecurity and secure application design  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+**Languages:** Python, SQL  
+**Tools & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit  
+**Data Visualization:** Power BI  
+**Other:** Git, GitHub, Linux basics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Goals  
+- Build strong ML projects  
+- Improve problem-solving skills & contribute to open-source  
+
+### 📬 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/pawan-pawar-98166b315/) | **pawanpawar1093@gmail.com**
+
+
